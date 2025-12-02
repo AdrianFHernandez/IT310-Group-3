@@ -1,0 +1,93 @@
+.table {
+  text-align: center;
+  font-size: 200%;
+  margin: 5px;
+  color: #36486b;
+  margin: auto;
+  color: #36486b;
+}
+body {
+    font-family: Georgia, Cambria, 'Times New Roman', Times, serif;
+    background-color: #fefbd8;
+    color: #36486b;
+    border: 5px solid #618685;
+
+}
+.summry {
+    border: 2px solid #000000;
+    width: 1630px;
+    margin: 5px;
+    padding: 10px;
+    color: #36486b
+}
+figure {
+    padding: 4px;
+    text-align: left;
+    margin: auto;
+  }
+  figcaption {
+    background-color: #fefbd8;
+    color: #36486b;
+    padding: 2px;
+    text-align: left;
+  }
+  /* nav {
+    border: 2px solid #000000;
+    width: 1000px;
+    font-size: 113%;
+
+  } */
+  .not-bar{
+    background-color: #4040a1;
+    color: #36486b;
+  }
+  .nav-bar { 
+    display: flex;
+    background-color: #4040a1;
+    text-decoration: none;
+    color: white;
+
+  }
+  li {
+    padding: 1.1rem 1.1rem 1.1rem 0;
+    list-style-type: none;
+    color: #000000;
+}
+nav a  {
+    text-decoration: none;
+    color: white;
+}
+.info {
+    font-size: 200%;
+    text-align: center;
+}
+nav ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+nav ul li {
+display: inline;
+}
+a {
+padding: 10px;
+}
+td {
+  border: 1px solid black;
+  padding: .2em .5em .2em .5em .2em .5em;
+
+}
+form {
+  margin: .5em 0 1em;
+}
+form label {
+  width: 6em;
+  padding-right: 1em;
+  float: left;
+}
+br {
+  clear: left;
+}
+.subtext {
+  text-align: center;
+  width: 100%;
+}

@@ -1,0 +1,4 @@
+img:hover {
+    transform: scaleX(-1);
+    filter: hue-rotate(180deg);
+}
